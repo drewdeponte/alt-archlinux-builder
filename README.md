@@ -19,6 +19,12 @@ $ makepkg -si
 $ alt --version
 ```
 
+## License
+
+`alt-archlinux-builder` is Copyright © 2016, 2017 UpTech Works, LLC. It is free
+software, and may be redistributed under the terms specified in the LICENSE
+file.
+
 ## About <img src="http://upte.ch/img/logo.png" alt="uptech" height="48">
 
 `alt-archlinux-builder` is maintained and funded by [UpTech Works, LLC][uptech], a a
