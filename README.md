@@ -19,4 +19,15 @@ $ makepkg -si
 $ alt --version
 ```
 
+## About <img src="http://upte.ch/img/logo.png" alt="uptech" height="48">
+
+`alt-archlinux-builder` is maintained and funded by [UpTech Works, LLC][uptech], a a
+software design & development agency & consultancy.
+
+We love open source software. See [our other projects][community] or
+[hire us][hire] to design, develop, and grow your product.
+
+[community]: https://github.com/uptech
+[hire]: http://upte.ch
+[uptech]: http://upte.ch
 [alt]: https://github.com/uptech/alt
